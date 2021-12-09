@@ -1,5 +1,5 @@
 <h1 align="center">
-Bridging Composite and Real: Towards End-to-end Deep Image Matting</h1>
+Bridging Composite and Real: Towards End-to-end Deep Image Matting [IJCV-2021]: <a href='https://github.com/JizhiziLi/GFM'>Official repo</a></h1>
 
 <p align="center">
 <a href="https://arxiv.org/pdf/2010.16188.pdf"><img src="https://img.shields.io/badge/arXiv-Paper-success.svg" ></a>
@@ -11,7 +11,7 @@ Bridging Composite and Real: Towards End-to-end Deep Image Matting</h1>
 <img src="demo/gfm/spring.gif" width="25%"><img src="demo/gfm/summer.gif" width="25%"><img src="demo/gfm/autumn.gif" width="25%"><img src="demo/gfm/winter.gif" width="25%">
 
 
-<h3 align="center">Please note that the official repository of the paper  <a href="https://arxiv.org/pdf/2010.16188.pdf">Bridging Composite and Real: Towards End-to-end Deep Image Matting</a> has been moved <a href="https://github.com/JizhiziLi/GFM">HERE</a>.</h3>
+<h3 align="center">Please note that the official repository has been moved <a href="https://github.com/JizhiziLi/GFM">HERE</a>.</h3>
 
 
 
